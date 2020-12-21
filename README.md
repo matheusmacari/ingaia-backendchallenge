@@ -30,4 +30,4 @@ git clone https://github.com/matheusmacari/ingaia-backendchallenge.git
 
 ## Testando a API
 ### Abra seu navegador local e tente acessar     
-`https://localhost:3333/api1/`
+`https://localhost:3333/`
