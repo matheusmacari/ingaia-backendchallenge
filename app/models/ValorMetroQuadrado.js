@@ -1,6 +1,6 @@
 class ValorMetroQuadrado{
     constructor(){
-        this.Valor = 11;
+        this.Valor = 10;
     }
 
     GetValorMetroQuadrado(){
