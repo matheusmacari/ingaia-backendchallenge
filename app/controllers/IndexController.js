@@ -1,6 +1,6 @@
 class IndexController {
   async index(req, res) {
-    return res.send("Bem vindo a API!");
+    return res.render("index.html");
   }
 }
 

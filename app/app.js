@@ -4,6 +4,7 @@ import routes from "./routes.js";
 class App {
   constructor() {
     this.server = express();
+    this.server.use(express.static("./"));
     this.routes();
   }
 
