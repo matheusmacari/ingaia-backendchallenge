@@ -10,6 +10,9 @@ Api para calcular e retornar o valor de um imóvel com base no tamanho informado
 ## Swagger
 Disponível [aqui.](https://app.swaggerhub.com/apis-docs/M7149/ingaiachallenge/1.0.0) 
 
+## Heroku
+Disponível [aqui.](https://ingaia-challenge-backend.herokuapp.com/) 
+
 ## Instalação
 
 ### Clone o repositório abaixo.
@@ -27,4 +30,4 @@ git clone https://github.com/matheusmacari/ingaia-backendchallenge.git
 
 ## Testando a API
 ### Abra seu navegador local e tente acessar     
-`https://localhost:3333/api1/`
+`https://localhost:3333/`
